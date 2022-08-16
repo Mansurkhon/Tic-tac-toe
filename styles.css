@@ -1,0 +1,28 @@
+body{
+    background-color:#303841;
+  }
+  h1{
+    color:white;
+    text-align:center;
+  }
+  #field td {
+      width: 50px;
+      height: 50px;
+      border: 1px solid white;
+      text-align: center;
+      font-weight: bold;
+  }
+  #field{
+    background-color:#be3144;
+    margin:auto;
+  }
+  #restart{
+  color:white;
+    background-color:blue;
+    border-radius:45px;
+   }
+  #restart:hover{
+    border:1px solid blue;
+   background-color:white;
+   color:blue;
+  }
